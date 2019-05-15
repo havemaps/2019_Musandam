@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mussandam, 4-6 April 2019</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Mussandam</name>
+      <Placemark>
+        <name>UAE Border Crossing</name>
+        <description><![CDATA[description: It cost 35 dirhams per person to exit the UAE by land.<br>image: no image]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>It cost 35 dirhams per person to exit the UAE by land.</value>
+          </Data>
+          <Data name="image">
+            <value>no image</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            56.0875268,26.0501311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oman Border Crossing</name>
+        <description><![CDATA[description: For UAE residents, an Oman visa on arrival cost 50 dirhams.<br>image: no image]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>For UAE residents, an Oman visa on arrival cost 50 dirhams.</value>
+          </Data>
+          <Data name="image">
+            <value>no image</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            56.0880756,26.0523523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Khasab, Mussandam</name>
+        <description><![CDATA[description: The trip from Abu Dhabi to Khasab took about 5 hours. When the carpool arrived, we got on a small speed boat to go out to the dhow in the harbour.<br>image: no image]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>The trip from Abu Dhabi to Khasab took about 5 hours. When the carpool arrived, we got on a small speed boat to go out to the dhow in the harbour.</value>
+          </Data>
+          <Data name="image">
+            <value>no image</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            56.2460949,26.1986144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Khasab Harbour</name>
+        <description><![CDATA[description: The first night was spent sleeping on the open-air dhow in the middle of the Khasab Harbour. The trip leaders had falafel delivered to the ship for a late night snack! <br>image: no image]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>The first night was spent sleeping on the open-air dhow in the middle of the Khasab Harbour. The trip leaders had falafel delivered to the ship for a late night snack! </value>
+          </Data>
+          <Data name="image">
+            <value>no image</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            56.2489495,26.2080154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Telegraph Island</name>
+        <description><![CDATA[description: From the dhow, I swam about 100 meters to Telegraph Island. It's an old British telegraph station and now has some ruins of the former buildings. It is a popular stop for the dhow cruises.<br>image: <img src="https://github.com/havemaps/2019_Mussandam/blob/master/images/telegraph.JPG?raw=true" alt="Image of Telegraph Island, a small rocky island in the fjords of Oman">]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[From the dhow, I swam about 100 meters to Telegraph Island. It's an old British telegraph station and now has some ruins of the former buildings. It is a popular stop for the dhow cruises.]]></value>
+          </Data>
+          <Data name="image">
+            <value><![CDATA[<img src="https://github.com/havemaps/2019_Mussandam/blob/master/images/telegraph.JPG?raw=true" alt="Image of Telegraph Island, a small rocky island in the fjords of Oman">]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            56.3430036,26.1954187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stop 1 for kayaking</name>
+        <description><![CDATA[description: After setting sail in the early morning, the dhow made a stop around 9 for kayaking. On the way to the first stop, we saw some dolphins!<br>image: <img src="https://github.com/havemaps/2019_Mussandam/blob/master/images/kayak.jpg?raw=true" alt="Image of the tip of a yellow kayak on the water and in the distance there is a mountain">]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>After setting sail in the early morning, the dhow made a stop around 9 for kayaking. On the way to the first stop, we saw some dolphins!</value>
+          </Data>
+          <Data name="image">
+            <value><![CDATA[<img src="https://github.com/havemaps/2019_Mussandam/blob/master/images/kayak.jpg?raw=true" alt="Image of the tip of a yellow kayak on the water and in the distance there is a mountain">]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            56.3164954,26.1970633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kumzar</name>
+        <description><![CDATA[description: Kumzar is a small village that is accessible only by boat. The group had two planned hikes that are accessed behind the small village of Kumzar. After the hike, one of the dhow captains' aunts invited us to her house for tea and snacks! It was incredibly generous and a wonderful experience.<br>image: <img src="https://github.com/havemaps/2019_Mussandam/blob/master/images/kumzar.jpg?raw=true" alt="Image of the tip of a dhow and the village of Kumzar on the horizon">]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value><![CDATA[Kumzar is a small village that is accessible only by boat. The group had two planned hikes that are accessed behind the small village of Kumzar. After the hike, one of the dhow captains' aunts invited us to her house for tea and snacks! It was incredibly generous and a wonderful experience.]]></value>
+          </Data>
+          <Data name="image">
+            <value><![CDATA[<img src="https://github.com/havemaps/2019_Mussandam/blob/master/images/kumzar.jpg?raw=true" alt="Image of the tip of a dhow and the village of Kumzar on the horizon">]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            56.4110051,26.3379631,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hiking stop point</name>
+        <description><![CDATA[description: This is roughly where the group hiked through. It was difficult to get the exact point from Google imagery because we were hiking through a wadi that is not very visible.<br>image: <img src="https://github.com/havemaps/2019_Mussandam/blob/master/images/hike.JPG?raw=true" alt="Image of a rocky wadi and people standing on a rock ledge">]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>This is roughly where the group hiked through. It was difficult to get the exact point from Google imagery because we were hiking through a wadi that is not very visible.</value>
+          </Data>
+          <Data name="image">
+            <value><![CDATA[<img src="https://github.com/havemaps/2019_Mussandam/blob/master/images/hike.JPG?raw=true" alt="Image of a rocky wadi and people standing on a rock ledge">]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            56.4266963,26.3222156,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beach dinner</name>
+        <description><![CDATA[description: Dinner Friday was cooked and served on a small, isolated beach.<br>image: <img src="https://github.com/havemaps/2019_Mussandam/blob/master/images/beach.jpg?raw=true" alt="Image of a small beach and rock walls surrounding it">]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Dinner Friday was cooked and served on a small, isolated beach.</value>
+          </Data>
+          <Data name="image">
+            <value><![CDATA[<img src="https://github.com/havemaps/2019_Mussandam/blob/master/images/beach.jpg?raw=true" alt="Image of a small beach and rock walls surrounding it">]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            56.4414951,26.3267441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bioluminescent bay</name>
+        <description><![CDATA[description: The bay the dhow was anchored for the second night was bioluminescent! On Saturday, I opted to sleep in and kayak around the bay instead of go on the second hike.<br>image: <img src="https://github.com/havemaps/2019_Mussandam/blob/master/images/biolumBay.JPG?raw=true" alt="Image of a large dhow in a small bay">]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>The bay the dhow was anchored for the second night was bioluminescent! On Saturday, I opted to sleep in and kayak around the bay instead of go on the second hike.</value>
+          </Data>
+          <Data name="image">
+            <value><![CDATA[<img src="https://github.com/havemaps/2019_Mussandam/blob/master/images/biolumBay.JPG?raw=true" alt="Image of a large dhow in a small bay">]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            56.4451,26.3346675,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stop 2 for kayaking</name>
+        <description><![CDATA[description: Before reaching Kumzar, we had a second kayak and snorkelling stop. There was a beach and a few small caves. I saw a sea turtle!<br>image: <img src="https://github.com/havemaps/2019_Mussandam/blob/master/images/kayak2.jpg?raw=true" alt="Image of rocky cliff face that drops into the water">]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Before reaching Kumzar, we had a second kayak and snorkelling stop. There was a beach and a few small caves. I saw a sea turtle!</value>
+          </Data>
+          <Data name="image">
+            <value><![CDATA[<img src="https://github.com/havemaps/2019_Mussandam/blob/master/images/kayak2.jpg?raw=true" alt="Image of rocky cliff face that drops into the water">]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            56.3930229,26.37234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stop 3 for kayaking</name>
+        <description><![CDATA[description: Before heading back to Khasab and Abu Dhabi, there was one final kayak and snorkeling stop.<br>image: no image]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value>Before heading back to Khasab and Abu Dhabi, there was one final kayak and snorkeling stop.</value>
+          </Data>
+          <Data name="image">
+            <value>no image</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            56.3302007,26.2781464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
